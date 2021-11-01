@@ -1,0 +1,31 @@
+/* AÇIKLAMA SATIRI -> ctrl+ö basarak oluşturulur.
+    istediğimiz satır kadar olabilir sınır yok
+*/
+body {
+    background-color: rgb(252, 200, 181);
+    }
+.navClass {
+    color:red;
+    font-size: 18 px; 
+    text-align: center
+    }
+.articleClass {
+    color:rgb(19, 41, 170);
+    font-size: 14 px; 
+    text-align: center
+    }
+
+p{
+    color:cadetblue;
+    font-size: 24 px; 
+}
+
+ul{ 
+    font-family: 'Zen Kurenaido', sans-serif;
+    color: black;
+} 
+/******************* Parçalara ayırmak için böule de kullanılabilir ***********************/
+
+
+
+/******************* FOOTER KISMI diye ayırıp stili ayarlarsan düzenli olur*****************/
